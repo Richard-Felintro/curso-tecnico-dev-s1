@@ -1,0 +1,15 @@
+C:\Users\tec\Desktop\R-back-end\bin\Debug\net6.0\R-back-end.exe
+C:\Users\tec\Desktop\R-back-end\bin\Debug\net6.0\R-back-end.deps.json
+C:\Users\tec\Desktop\R-back-end\bin\Debug\net6.0\R-back-end.runtimeconfig.json
+C:\Users\tec\Desktop\R-back-end\bin\Debug\net6.0\R-back-end.dll
+C:\Users\tec\Desktop\R-back-end\bin\Debug\net6.0\R-back-end.pdb
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.csproj.AssemblyReference.cache
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.AssemblyInfoInputs.cache
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.AssemblyInfo.cs
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.csproj.CoreCompileInputs.cache
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.dll
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\refint\R-back-end.dll
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.pdb
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\R-back-end.genruntimeconfig.cache
+C:\Users\tec\Desktop\R-back-end\obj\Debug\net6.0\ref\R-back-end.dll
