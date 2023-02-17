@@ -1,0 +1,25 @@
+body{
+    background-color: darkslategray;
+}
+p {
+    color: #d9d9d9;font-weight: bold; font-family: 'Courier New', Courier, monospace;
+}
+
+#segundo {
+    background-color:paleturquoise;
+    color: black;
+    border: 3px solid lightgrey;
+    font-size: 25px;
+}
+.parsnip{
+    background-color: lightpink;
+    color: lightgreen;
+    border: salmon 2px solid;
+    font-size: 20px;
+
+}
+
+h2{
+    color: #d9d9d9;font-weight: bolder; font-family: 'Courier New', Courier, monospace;
+}
+
