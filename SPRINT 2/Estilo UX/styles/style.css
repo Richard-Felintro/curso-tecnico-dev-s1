@@ -3,22 +3,31 @@
 /*font-family: 'Quicksand', sans-serif;
 font-family: 'Titillium Web', sans-serif; */
 
-
+* {
+    font-family: 'Titillium Web', sans-serif;
+    color: whitesmoke;
+    text-decoration: none;
+}
 
 body {
-    font-family: 'Indie Flower', cursive;
-    background-color: bisque;
+    background-color: darkslategray;
+    width: auto;
+    margin: 0px;
 }
 
 header {
-    background-color: darkslategray;
+    background-color: #252525;
     font-family: 'Titillium Web', sans-serif;
 }
 
 header .grid-layout {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
-    background-color: cornflowerblue;
+}
+
+header .header-flex {
+    display: flex;
+    justify-content: space-between;
 }
 
 header h1 #logoux{
@@ -27,6 +36,13 @@ header h1 #logoux{
     font-style: italic;
     font-weight: 600;
     font-size: 30px;
+}
+
+nav {
+    display: flex;
+    width: 200px;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 h2 {
