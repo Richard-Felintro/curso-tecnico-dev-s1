@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&display=swap');
+/* RESET DE PROPRIEDADES */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* FONTES */
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans', sans-serif; */
+
+/* GRID LAYOUT */
+.grid-layout {
+    width: 80%;
+    margin: 0 auto; /*margin: vertical horizontal*/
+}
+
+/* FORMATAÇÃO DE CABEÇALHO */
+header {
+    height: 60px;
+    background-color: #F9003D;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+header nav a {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    color: white;
+    margin: 0 69px;
+}
+
+/* PRIMEIRA SEÇÃO */
+
+section {
+    background-image: url('assets\bg-img-banner.png');
+    display: flex;
+    align-items: center;
+    height: 740px;
+}
+
+section h2 { /*DESENVOLVIMENTO DE SISTEMAS*/
+    position: absolute;
+    margin: 226px 0 0 0;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 96px;
+    color: white;
+}
+
+hr { /*linha*/
+    position: absolute;
+    width: 545px;
+    height: 0px;
+    margin: 532px 0 0 0;
+
+    border: 1px solid #FFAF00;
+}
+
+section h3 { /*SENAI Informática*/
+    font-family: 'Courier New';
+    font-size: 53px;
+    color: #F9003D;
+    position: absolute;
+    width: 544px;
+    height: 68px;
+    margin: 561px 0 0 0;
+}
+
+section .icone-mouse {
+    position: absolute;
+    margin: 660px 0 0 0;
+}
