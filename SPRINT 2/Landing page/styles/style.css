@@ -35,25 +35,29 @@ font-family: 'Open Sans', sans-serif; */
 header {
     height: 60px;
     background-color: #F9003D;
+    display: flex;
+    justify-content: flex-end;
 }
 
 header div {
+    width: 50%;
     height: 100%;
     display: flex;
-    align-items: center;
 }
 
 header nav {
-    width: 50%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 
 header nav a {
     color: white;
     font-family: 'Bebas Neue', cursive;
     font-size: 18px;
-    margin: 0 0 0 138px;
+}
+
+#menu-hamburger {
+    display: none;
 }
 
 /********** PRIMEIRA SEÇÃO (BANNER) **********/
@@ -61,6 +65,7 @@ header nav a {
 #banner {
     background-image: url(../assets/images/bg-img-banner.png);
     min-height: 740px;
+    width: 100%;
     display: flex;
 }
 /* TÍTULO */
@@ -83,6 +88,7 @@ header nav a {
 }
 /* SENAI INFORMÁTICA */
 #senai-informatica {
+    margin: 10px 0 0 0;
     font-family: 'Courier New', Courier, monospace;
     color: #F9003D;
     font-size: 53px;
@@ -92,7 +98,7 @@ header nav a {
 #mouse-icone {
     align-self: flex-start;
     height: 60px;
-    margin: 0 0 0 22px;
+    margin: 10px 0 0 22px;
     filter: drop-shadow(1px 1px 5px #FFD374);
 }
 
@@ -229,4 +235,27 @@ footer {
 footer p {
     font-family: 'Open Sans';
     font-size: 18px;
+}
+
+/********** MOBILE **********/
+@media screen and (max-width: 767px) {
+    main, footer, nav {
+        display: none;
+    }
+/* navbar */
+header div {
+    position: fixed;
+    top: 60px;
+    width: 80%;
+    max-width: 360px;
+    height: 100%;
+    background-color: #FFAF00;
+}
+
+header  {
+    flex-direction: column;
+}
+    #menu-hamburger {
+        display: block;
+    }
 }
