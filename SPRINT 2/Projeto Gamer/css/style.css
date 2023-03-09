@@ -1,0 +1,63 @@
+/* RESET DE PROPRIEDADES */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* FONTES */
+/*  INTER                   font-family: 'Inter', sans-serif; */
+/*  QUICKSAND               font-family: 'Quicksand', sans-serif; */
+/*  TITILLIUM WEB           font-family: 'Titillium-Web', cursive; */
+/*  TITILLIUM WEB BOLD      font-family: 'Titillium-Bold', cursive; */
+/*  TITILLIUM WEB BLACK     font-family: 'Titillium-Black', cursive; */
+
+@font-face {
+    font-family: Inter;
+    src: url(assets\fonts\Inter\Inter-Bold.ttf);
+}
+
+@font-face {
+    font-family: Quicksand;
+    src: url(assets\fonts\Quicksand\Quicksand-Regular.ttf);
+}
+
+@font-face {
+    font-family: Titillium-Web;
+    src: url(assets\fonts\Titillium-Web\TitilliumWeb-Regular.ttf);
+}
+
+@font-face {
+    font-family: Titillium-Web;
+    src: url(assets\fonts\Titillium-Web\TitilliumWeb-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Titillium-Web;
+    src: url(assets\fonts\Titillium-Web\TitilliumWeb-Black.ttf);
+    font-weight: bolder;
+}
+
+/* GRID LAYOUT */
+.grid-layout {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+/********** MOBILE FIRST **********/
+
+/********** CABEÇALHO **********/
+
+header {
+    background-color: #1B1426;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-icon {
+    fill: white;
+}
