@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link rel="stylesheet" href="css\style.css"> -->
+    <link rel="stylesheet" href="css\style.css">
     <title>Landing page</title>
 </head>
 <body>
     <header>
-        <div class="header-top">
-            <div>
+        <div class="header-top grid-layout desktop-only">
+            <div class>
                 <img src="assets\icons\telephone.svg" alt="icone de contato de telefone">
                 <p>"(11) 0900-1010"</p>
                 <img src="assets\icons\email.svg" alt="icone de envelope email">
@@ -22,23 +22,28 @@
                 <img src="assets\icons\instagram.svg" alt="icone do instagram">
             </div>
         </div>
-        <div class="header-bottom">
-            <img src="" alt="logotipo da liga gamer">
-            <nav>
+        <div class="header-bottom grid-layout">
+            <img class="header-icon" src="Assets\Icons\menu-hamburger.svg" alt="Ícone padrão de menu">
+            <img src="assets\icons\logotipo-gamer.svg" alt="logotipo da liga gamer, com a palavra Gamer e um M em formato de controle">
+            <img class="header-icon" src="assets\icons\pointers.svg" alt="Ícone padrão de mais, reticencias">
+            <nav class="desktop-only">
                 <a href="">Início</a>
                 <a href="">Jogadores</a>
                 <a href="">Equipes</a>
                 <a href="">Notícias</a>
             </nav>
-            <div>
+            <div class="desktop-only">
                 <img src="assets\icons\friend.svg" alt="icone de amigos">
                 <img src="assets\icons\shopping-bag.svg" alt="icone de sacola de compras">
                 <img src="assets\icons\search.svg" alt="icone de lupa de pesquisa">
             </div>
-
         </div>
-        <!-- <img class="header-icon" src="Assets\Icons\menu-hamburger.svg" alt="Ícone padrão de menu">
-        <img class="header-icon" src="Assets\Icons\more.svg" alt="Ícone padrão de mais, reticencias"> -->
     </header>
-</body>
-</html>
+    <main>
+        <section class="banner-section">
+            <h1 class="desktop-only">Liga Gamers</h1>
+            <h2 class="mobile-only">Liga Gamers</h2>
+            <div>
+                <h4>sobre</h4>
+            </div>
+        </section>

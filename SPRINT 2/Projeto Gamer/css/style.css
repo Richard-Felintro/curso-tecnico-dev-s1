@@ -9,55 +9,125 @@
 /* FONTES */
 /*  INTER                   font-family: 'Inter', sans-serif; */
 /*  QUICKSAND               font-family: 'Quicksand', sans-serif; */
-/*  TITILLIUM WEB           font-family: 'Titillium-Web', cursive; */
-/*  TITILLIUM WEB BOLD      font-family: 'Titillium-Bold', cursive; */
-/*  TITILLIUM WEB BLACK     font-family: 'Titillium-Black', cursive; */
+/*  TITILLIUM WEB           font-family: 'Titillium Web', cursive; */
+/*  TITILLIUM WEB BOLD      font-family: 'Titillium Web', cursive; */
+/*  TITILLIUM WEB BLACK     font-family: 'Titillium Web', cursive; */
 
 @font-face {
-    font-family: Inter;
-    src: url(assets\fonts\Inter\Inter-Bold.ttf);
+    font-family: 'Inter';
+    src: url(../assets/fonts/Inter/Inter-Bold.ttf);
 }
 
 @font-face {
-    font-family: Quicksand;
-    src: url(assets\fonts\Quicksand\Quicksand-Regular.ttf);
+    font-family: 'Quicksand';
+    src: url(../assets/fonts/Quicksand/Quicksand-Regular.ttf);
 }
 
 @font-face {
-    font-family: Titillium-Web;
-    src: url(assets\fonts\Titillium-Web\TitilliumWeb-Regular.ttf);
+    font-family: 'Titillium Web';
+    src: url(../assets/fonts/Titillium-Web/TitilliumWeb-Regular.ttf);
+    font-weight: normal;
 }
 
 @font-face {
-    font-family: Titillium-Web;
-    src: url(assets\fonts\Titillium-Web\TitilliumWeb-Bold.ttf);
+    font-family: 'Titillium Web';
+    src: url(../assets/fonts/Titillium-Web/TitilliumWeb-Bold.ttf);
     font-weight: bold;
 }
 
 @font-face {
-    font-family: Titillium-Web;
-    src: url(assets\fonts\Titillium-Web\TitilliumWeb-Black.ttf);
+    font-family: 'Titillium Web';
+    src: url(../assets/fonts/Titillium-Web/TitilliumWeb-Black.ttf);
     font-weight: bolder;
 }
 
-/* GRID LAYOUT */
-.grid-layout {
-    width: 80%;
-    margin: 0 auto;
+/* FORMATAÇÃO texto padronizado */
+
+h1 {
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: 'Titillium Web', cursive;
+    color: white;
 }
 
+h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Titillium Web', cursive;
+    color: white;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Titillium Web', cursive;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Titillium-Web', cursive;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Titillium-Web', cursive;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+a {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+a:hover {
+    color: #F9AA01;
+}
 
 /********** MOBILE FIRST **********/
 
-/********** CABEÇALHO **********/
+.grid-layout {
+    width: 100%;
+    padding: 0 5%;
+}
 
-header {
-    background-color: #1B1426;
+.desktop-only {
+    display: none;
+}
+
+/* header-top apenas para desktop */
+
+.header-top {
+    display: none;
+}
+
+/********** CABEÇALHO mobile **********/
+
+.header-bottom {
     height: 60px;
+    background-color: #1B1426;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header-icon {
-    fill: white;
+    width: 45px;
+    height: 45px;
+}
+
+/********** BANNER mobile **********/
+
+.banner-section {
+    background-image: url(../assets/images/banner-mobile.svg);
+    background-position: center;
+    height: 606px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
