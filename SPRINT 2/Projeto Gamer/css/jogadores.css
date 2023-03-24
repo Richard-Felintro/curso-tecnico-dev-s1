@@ -121,8 +121,6 @@ header #mostra-esconde-icones {
     display: none;
 }
 
-.header-flex {}
-
 header .header-bottom {
     display: flex;
     justify-content: space-between;
@@ -261,106 +259,175 @@ header .icons-header img {
     width: 20px;
 }
 
-/* Main */
-.fundo-login {
-    width: 100%;
-    height: 600px;
-    margin-top: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url(../assets/images/background-login-mobile.png);
-    background-position: left top;
-    background-repeat: no-repeat;
-}
+/********** CADASTRO de equipes **********/
 
- .bkg-login { /*aqui vai a borda gradient*/
-    width: 100%;
-    max-width: 320px;
-    height: 400px;
-    padding: 1px;
-    /* border: 1px solid white; */
-    border-radius: 8px;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, .5), rgba(255, 255, 255, 0.05));
-}
+.jogadores-section {
+    margin-top: 58px;
+    height: 200vh;
+    background-image: url(../assets/images/jogadores-bkg.svg);
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(4px);
 
-.frm-login {
+    padding: 80px 0 0 0;
+
     display: flex;
     flex-direction: column;
     align-items: center;
-    flex-wrap: wrap;
-    padding: 35px 20px 35px;
-    height: 100%;
-    background-image: linear-gradient(to right, rgba(27, 20, 38, .5), rgba(27, 20, 38, .2));
-    /* backdrop-filter: blur(15px); */
-    border-radius: 8px;
-    
-    
 }
 
-.frm-login .login-title {
+.jogadores-bkg { /*Borda gradient*/
     width: 100%;
-    text-align: center;
-    margin-bottom: 60px;
+    max-width: 90vw;
+    height: 650px;
+    padding: 40px 25px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background: linear-gradient(180deg, rgba(27, 20, 38, 0.6) 0%, rgba(60, 3, 65, 0.38) 100%);
+    backdrop-filter: blur(3px);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.jogadores-bkg h1 {
     text-transform: uppercase;
     font-family: TitilliumWeb-Black;
+    font-size: 28px;
+    text-align: center;
 
+    width: fit-content;
+    border-bottom: 3px solid #F9AA01;
+    margin: 0 0 10vh 0;
+
+    justify-self: center;
 }
 
-.frm-login .login-title hr {
-    width: 30%;
-    margin: 0 auto;
-    margin-bottom: 20px;
-    border: 2px solid #F9AA01;
-}
-
-.frm-login .frm-linha {
-    width: 100%;
-    margin-bottom: 40px;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, .4), rgba(255, 255, 255, 0.1));
-    border-radius: 10px;
-}
-
-.frm-login .frm-linha .bkg-input {
-    display: flex;
-    justify-content: space-between;
-    padding: 0 10px;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, .4), rgba(255, 255, 255, .1));
-    backdrop-filter: blur(25px);
-    border-radius: 10px;
-}
-
-.frm-login .frm-linha input {
-    width: 85%;
+.input-box {
+    width: 75vw;
     height: 40px;
+    background: linear-gradient(90deg, rgba(239, 239, 239, 0.6) 0%, rgba(239, 239, 239, 0.1) 100%);
+    border: 1px solid whitesmoke;
+    border-radius: 8px;
+
+    margin: 25px 0;
+    padding: 0 0 0 30px;
+}
+
+.input-box input {
+    height: 100%;
+    width: 100%;
     background-color: transparent;
-    font-family: TitilliumWeb-Regular;
-    font-size: 16px;
     outline: none;
     border: none;
 }
 
-.frm-login .frm-linha input::placeholder {
+.input-box input::placeholder {
+    font-family: TitilliumWeb-Regular;
     color: white;
+    font-size: 16px;
 }
 
+.image-input-box {
+    width: 100%;
+    margin: 20px 0;
+}
 
+.image-input::file-selector-button {
+    width: 35vw;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #d9d9d9;
+    outline: none;
+    border: none;
 
-.frm-login .btn-logar {
+    font-family: TitilliumWeb-Bold;
+    color: black;
+    font-size: 13px;
+}
+
+.cadastro-btn {
+    background-color: #F9AA01;
     width: 100%;
     height: 40px;
-    font-family: TitilliumWeb-Bold;
-    font-size: 1.5rem;
-    background-color: #F9AA01;
+    outline: none;
+    border: none;
     border-radius: 8px;
-    border: 1px solid #F9AA01;
+    margin: 30px 0 0 0;
+}
+
+.cadastro-btn p {
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
 }
 
 
+/********** PLACAR de equipes ************/
 
+table {
+    width: 90vw;
+    height: 50vh;
+}
 
+.tabela-head {
+    color: #F9AA01;
+    font-family: TitilliumWeb-Black;
+    font-size: 20px;
+    text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.8);
+    text-align: center;
 
+    width: 90vw;
+    margin-top: 150px;
+    border-bottom: 3px solid #F9AA01;
 
+    display: flex;
+}
+
+.tabela-row {
+    color: #FFFFFF;
+    font-family: TitilliumWeb-Bold;
+    font-size: 20px;
+
+    width: 90vw;
+    height: 70px;
+    margin: 20px 0;
+
+    border: 1px solid white;
+    border-radius: 8px;
+    background: linear-gradient(180deg, rgba(27, 20, 38, 0.6) 0%, rgba(60, 3, 65, 0.38) 100%);
+    backdrop-filter: blur(3px);
+
+    display: flex;
+    align-items: center;
+}
+
+.tabela-row img, .tabela-row p {
+    height: 32px;
+    text-align: center;
+    border-right: 3px solid #F9AA01;
+}
+
+.tabela-row img:last-of-type {
+    border: 0;
+}
+
+.posicao {
+    width: 15%;
+}
+
+.jogador {
+    width: 20%;
+}
+
+.email {
+    width: 55%;
+}
+
+.lixeira {
+    width: 15%;
+    border: 0;
+}
 
 /********************* Footer *********************/
 footer {
@@ -527,205 +594,4 @@ footer #copyright {
     font-family: TitilliumWeb-Regular;
     text-align: center;
     font-size: .9rem;
-}
-
-
-
-
-/********************* MEDIAS *********************/
-/* Desktop */
-
-@media screen and (min-width: 992px) {
-    .container-grid {
-        max-width: 992px;
-        margin: 0 auto;
-        /* border: 1px solid #EC4358; */
-    }
-
-    .header {
-        position: static;
-        height: auto;
-        margin: 0;
-        padding: 0;
-        flex-wrap: wrap;
-    }
-
-    .header label {
-        display: none;
-    }
-
-    header .header-top {
-        display: block;
-        width: 100%;
-        border-bottom: 1px solid #F9AA01;
-    }
-
-    .header-top-flex {
-        display: flex;
-        justify-content: space-between;
-        padding: 10px 0;
-    }
-
-    header .header-top span {
-        margin-right: 40px;
-        font-size: .8rem;
-        /* border: 1px solid white; */
-    }
-
-    header .header-top span img {
-        margin-right: 10px;
-    }
-
-    header .header-top .social-box {
-        margin-right: 0;
-    }
-
-
-    header .header-bottom {
-        padding: 10px 0;
-    }
-
-    /* Menu */
-    header .nav-bkg {
-        position: static;
-        /* justify-content: space-between; */
-        width: 30%;
-        height: auto;
-        padding: 0;
-        background-image: none;
-        /* border: 1px solid red; */
-    }
-
-    header .nav-bkg nav {
-        flex-direction: row;
-        justify-content: space-between;
-        /* border: 1px solid white; */
-    }
-
-    .header nav a {
-        width: auto;
-        height: auto;
-        padding: 10px;
-        border: none;
-        /* border: 1px solid greenyellow; */
-    }
-
-
-    .header nav a.phone-box,
-    .header nav a.mail-box {
-        display: none;
-    }
-    .header nav a:hover {
-        background-color: transparent;
-        color: #F9AA01;
-    }
-
-    /* .header nav .social-box {
-        position: static;
-        
-        border: 1px solid yellow;
-    } */
-    .header nav .social-box {
-        display: none;
-    }
-    header .icons-header-bkg {
-        position: static;
-        width: auto;
-        height: auto;
-        background-image: none;
-    }
-
-
-    header .icons-header {
-        height: auto;
-        flex-direction: revert;
-        width: 100px;
-        padding: 10px;
-        background-image: none;
-        /* border: 1px solid red; */
-    }
-
-
-
-/* Main */
-
-.fundo-login {
-    margin-top: 0;
-    background-image: url(../assets/Banner_Login.png);
-    background-size: cover;
-    background-position: top  ;
-}
-
-.bkg-login {
-    max-width: 800px;
-    height: 520px;
-}
-
-.frm-login .login-title {
-    display: flex;
-    flex-direction: column-reverse;
-}
-
-.frm-login .login-title hr {
-    margin-top: 5px;
-    width: 80px;
-    border-width: 1px;
-}
-
-.frm-login { 
-    padding-top: 50px;
-    padding-bottom: initial;
-}
-
-
-.frm-login .frm-linha {
-    max-width: 565px;
-}
-
-.frm-login .frm-linha input {
-    width: 100%;
-    max-width: 510px;
-}
-
-.frm-login .btn-logar {
-    max-width: 210px;
-}
-
-
-
-
-
-
-
-
-    /* Footer */
-
-    footer .footer-flex {
-        flex-direction: row;
-        align-items: flex-start;
-    }
-
-    footer .card-ftitem-box {
-        align-items: flex-start;
-        padding-right: 20px;
-        /* border: 1px solid red; */
-    }
-    
-    footer .card-ftitem-box:last-of-type {
-        padding-right: 0;
-    }
-
-    footer .card-ftitem-box #ftlogo-link {
-         align-self: inherit; /* herda o comportamento do flex container */
-    }
-
-    footer .card-ftitem-box .social-fticons {
-        /* border: 1px solid white; */
-        width: 80%;
-    }
-    
-    footer .menu-footer {
-        flex-direction: column;
-        width: 100%;
-    }
 }

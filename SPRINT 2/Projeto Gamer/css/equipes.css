@@ -372,19 +372,66 @@ table {
     height: 50vh;
 }
 
-.placar {
+.tabela-head {
     color: #F9AA01;
     font-family: TitilliumWeb-Black;
     font-size: 20px;
+    text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.8);
+    text-align: center;
+
+    width: 90vw;
+    margin-top: 150px;
+    border-bottom: 3px solid #F9AA01;
+
+    display: flex;
 }
 
-.placar-head tr {
-    border: 3px solid #F9AA01;
+.tabela-row {
+    color: #FFFFFF;
+    font-family: TitilliumWeb-Bold;
+    font-size: 20px;
+
+    width: 90vw;
+    height: 70px;
+    margin: 20px 0;
+
+    border: 1px solid white;
+    border-radius: 8px;
+    background: linear-gradient(180deg, rgba(27, 20, 38, 0.6) 0%, rgba(60, 3, 65, 0.38) 100%);
+    backdrop-filter: blur(3px);
+
+    display: flex;
+    align-items: center;
 }
 
-.dummy {
-    opacity: 0;
+.tabela-row img, .tabela-row p {
+    height: 32px;
+    text-align: center;
+    border-right: 3px solid #F9AA01;
 }
+
+.tabela-row img:last-of-type {
+    border: 0;
+}
+
+.posicao {
+    width: 15%;
+}
+
+.equipe {
+    width: 50%;
+    padding-right: 15%;
+}
+
+.logo {
+    width: 25%;
+}
+
+.lixeira {
+    width: 15%;
+    border: 0;
+}
+
 
 /********************* Footer *********************/
 footer {
@@ -485,7 +532,7 @@ footer .menu-ftitem a {
 
 
 footer a {
-    font-family: Quicksand-Regular;
+    font-family: Quicksand-Bold;
     text-decoration: none;
     color: white;
 }
@@ -499,7 +546,7 @@ footer p.contact-title {
 
 footer p.contact-text {
     margin-bottom: 10px;
-    font-family: Quicksand-Regular;
+    font-family: Quicksand-Bold;
 }
 
 footer .frm-news {

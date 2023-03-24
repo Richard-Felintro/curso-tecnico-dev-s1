@@ -578,7 +578,7 @@ footer .menu-ftitem a {
 
 
 footer a {
-    font-family: Quicksand-Regular;
+    font-family: Quicksand-Bold;
     text-decoration: none;
     color: white;
 }
@@ -592,7 +592,7 @@ footer p.contact-title {
 
 footer p.contact-text {
     margin-bottom: 10px;
-    font-family: Quicksand-Regular;
+    font-family: Quicksand-Bold;
 }
 
 footer .frm-news {
