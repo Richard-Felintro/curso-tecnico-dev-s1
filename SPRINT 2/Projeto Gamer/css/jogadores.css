@@ -313,6 +313,9 @@ header .icons-header img {
 
     margin: 25px 0;
     padding: 0 0 0 30px;
+
+    display: flex;
+    align-items: center;
 }
 
 .input-box input {
@@ -327,6 +330,24 @@ header .icons-header img {
     font-family: TitilliumWeb-Regular;
     color: white;
     font-size: 16px;
+}
+
+.input-box select {
+    font-family: TitilliumWeb-Regular;
+    color: white;
+    font-size: 16px;
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.input-box option {
+    font-family: TitilliumWeb-Regular;
+    color: white;
+    font-size: 16px;
+    background-color: black;
+    outline: none;
+    border: none;
 }
 
 .image-input-box {
