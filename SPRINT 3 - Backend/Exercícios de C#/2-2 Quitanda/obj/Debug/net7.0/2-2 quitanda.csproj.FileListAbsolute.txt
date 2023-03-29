@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\bin\Debug\net7.0\2-2 quitanda.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\bin\Debug\net7.0\2-2 quitanda.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\bin\Debug\net7.0\2-2 quitanda.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\bin\Debug\net7.0\2-2 quitanda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\bin\Debug\net7.0\2-2 quitanda.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\refint\2-2 quitanda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\2-2 quitanda.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-2 quitanda\obj\Debug\net7.0\ref\2-2 quitanda.dll
