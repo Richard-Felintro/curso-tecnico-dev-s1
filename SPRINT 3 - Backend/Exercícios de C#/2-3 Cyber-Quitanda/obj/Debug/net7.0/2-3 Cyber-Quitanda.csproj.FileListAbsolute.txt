@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\bin\Debug\net7.0\2-3 Cyber-Quitanda.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\bin\Debug\net7.0\2-3 Cyber-Quitanda.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\bin\Debug\net7.0\2-3 Cyber-Quitanda.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\bin\Debug\net7.0\2-3 Cyber-Quitanda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\bin\Debug\net7.0\2-3 Cyber-Quitanda.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\refint\2-3 Cyber-Quitanda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\2-3 Cyber-Quitanda.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2-3 Cyber-Quitanda\obj\Debug\net7.0\ref\2-3 Cyber-Quitanda.dll
