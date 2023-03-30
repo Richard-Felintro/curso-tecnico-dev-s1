@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\bin\Debug\net7.0\3-6 Aprovado ou reprovado.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\bin\Debug\net7.0\3-6 Aprovado ou reprovado.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\bin\Debug\net7.0\3-6 Aprovado ou reprovado.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\bin\Debug\net7.0\3-6 Aprovado ou reprovado.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\bin\Debug\net7.0\3-6 Aprovado ou reprovado.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\refint\3-6 Aprovado ou reprovado.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\3-6 Aprovado ou reprovado.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-6 Aprovado ou reprovado\obj\Debug\net7.0\ref\3-6 Aprovado ou reprovado.dll

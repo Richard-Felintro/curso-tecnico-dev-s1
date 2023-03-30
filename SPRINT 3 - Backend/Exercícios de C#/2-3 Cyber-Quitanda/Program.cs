@@ -1,5 +1,7 @@
 ﻿bool desejaContinuar = true;
 
+float quilo = 0;
+
 while (desejaContinuar == true)
 {
     Console.WriteLine($@" 
@@ -28,35 +30,42 @@ Informe o número de seu produto desejado:
 
     int opcao = int.Parse(Console.ReadLine());
 
+
     if (opcao == 1)
     {
-        float quilo = 4.99F;
+        quilo = 4.99F;
     }
 
     else if (opcao == 2)
     {
-        float quilo = 9.99F;
+        quilo = 9.99F;
     }
 
     else if (opcao == 3)
     {
-        float quilo = 11.99F;
+        quilo = 11.99F;
     }
 
     else if (opcao == 4)
     {
-        float quilo = 02.99F;
+        quilo = 02.99F;
     }
 
     else if (opcao == 5)
     {
-        float quilo = 00.84F;
+        quilo = 00.84F;
     }
 
     else
     {
-        Console.WriteLine($"Opção inválida.");
-        while (desejaContinuar == true)
+        Console.WriteLine($"Opção inválida, o .");
+        while (desejaContinuar == false);
     }
-}
 
+Console.WriteLine($"Quantos quilos deseja comprar?");
+float peso = float.Parse(Console.ReadLine());
+
+    float total = peso * quilo;
+
+Console.WriteLine($"Seu custo total é R${total}, obrigado por comprar aqui!");
+}

@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\bin\Debug\net7.0\3-3 Triangulos.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\bin\Debug\net7.0\3-3 Triangulos.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\bin\Debug\net7.0\3-3 Triangulos.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\bin\Debug\net7.0\3-3 Triangulos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\bin\Debug\net7.0\3-3 Triangulos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\refint\3-3 Triangulos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\3-3 Triangulos.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-3 Triangulos\obj\Debug\net7.0\ref\3-3 Triangulos.dll

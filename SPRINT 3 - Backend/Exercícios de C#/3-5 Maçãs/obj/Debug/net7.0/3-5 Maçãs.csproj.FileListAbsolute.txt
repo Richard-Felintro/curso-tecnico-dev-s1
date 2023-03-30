@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\bin\Debug\net7.0\3-5 Maçãs.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\bin\Debug\net7.0\3-5 Maçãs.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\bin\Debug\net7.0\3-5 Maçãs.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\bin\Debug\net7.0\3-5 Maçãs.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\bin\Debug\net7.0\3-5 Maçãs.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\refint\3-5 Maçãs.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\3-5 Maçãs.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\3-5 Maçãs\obj\Debug\net7.0\ref\3-5 Maçãs.dll
