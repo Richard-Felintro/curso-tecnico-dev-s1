@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\bin\Debug\net7.0\3 - Calculo de círculos.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\bin\Debug\net7.0\3 - Calculo de círculos.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\bin\Debug\net7.0\3 - Calculo de círculos.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\bin\Debug\net7.0\3 - Calculo de círculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\bin\Debug\net7.0\3 - Calculo de círculos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\refint\3 - Calculo de círculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\3 - Calculo de círculos.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\3 - Calculo de círculos\obj\Debug\net7.0\ref\3 - Calculo de círculos.dll

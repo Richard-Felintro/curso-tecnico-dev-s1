@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\refint\5 - Vogal ou consoante.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\5 - Vogal ou consoante\obj\Debug\net7.0\ref\5 - Vogal ou consoante.dll

@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\bin\Debug\net7.0\1 - Aniversário.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\bin\Debug\net7.0\1 - Aniversário.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\bin\Debug\net7.0\1 - Aniversário.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\bin\Debug\net7.0\1 - Aniversário.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\bin\Debug\net7.0\1 - Aniversário.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\refint\1 - Aniversário.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\1 - Aniversário.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\1 - Validação de Aniversário\obj\Debug\net7.0\ref\1 - Aniversário.dll

@@ -24,32 +24,13 @@ float aresta2 = float.Parse(Console.ReadLine());
 Console.WriteLine($"Qual o comprimento da terceira aresta do triângulo: ");
 float aresta3 = float.Parse(Console.ReadLine());
 
-int same1 = 0;
-int same2 = 0;
-int same3 = 0;
-
-if (aresta1 == aresta2){
-    same1 = 1;
-}
-
-if (aresta3 == aresta2){
-    same2 = 1;
-}
-
-if (aresta1 == aresta3){
-    same3 = 1;
-}
-
-int ladosIguais = same1 + same2 + same3;
-
-if (ladosIguais == 0){
+if (aresta1 == aresta2 && aresta2 == aresta3){
+    Console.WriteLine($"O triângulo em questão é equilátero.");
+    
+} else if ((aresta1 != aresta2) && (aresta2 != aresta3)){
     Console.WriteLine($"O triângulo em questão é escaleno.");
 }
 
-if (ladosIguais == 1){
+else {
     Console.WriteLine($"O triângulo em questão é isócele.");
-}
-
-if (ladosIguais == 3){
-    Console.WriteLine($"O triângulo em questão é equilátero.");
 }

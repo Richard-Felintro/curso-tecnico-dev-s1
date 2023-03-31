@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\bin\Debug\net7.0\2 - Comparação de números.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\bin\Debug\net7.0\2 - Comparação de números.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\bin\Debug\net7.0\2 - Comparação de números.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\bin\Debug\net7.0\2 - Comparação de números.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\bin\Debug\net7.0\2 - Comparação de números.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\refint\2 - Comparação de números.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\2 - Comparação de números.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\2 - Comparação de números\obj\Debug\net7.0\ref\2 - Comparação de números.dll

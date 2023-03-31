@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\3-3 Triangulos\\3-3 Triangulos.csproj",
+      "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-03-30 Estruturas condicionais\\3-3 Triangulos\\3-3 Triangulos.csproj",
       "projectName": "3-3 Triangulos",
-      "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\3-3 Triangulos\\3-3 Triangulos.csproj",
+      "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-03-30 Estruturas condicionais\\3-3 Triangulos\\3-3 Triangulos.csproj",
       "packagesPath": "C:\\Users\\47417895867\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\3-3 Triangulos\\obj\\",
+      "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-03-30 Estruturas condicionais\\3-3 Triangulos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\47417895867\\AppData\\Roaming\\NuGet\\NuGet.Config",
