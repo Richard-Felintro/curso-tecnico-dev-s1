@@ -6,13 +6,17 @@
   \ \  \|\  \ \  \_|\ \ \  \|\  \ \  \ \  \_\\ \ \  \ \  \|____|\  \  
    \ \_______\ \_______\ \_______\ \__\ \_______\ \__\ \__\____\_\  \ 
     \|_______|\|_______|\|_______|\|__|\|_______|\|__|\|__|\_________\
-                                                          \|_________|
+                                                          \|_________|");
+selecao:
+Console.WriteLine($@"
 o--+--Escolha sua bebida--+--o
 | [1] Coca-cola              |
 | [2] Pepsi                  |
 | [3] Fanta                  |
 | [4] Monster                |
 o--+--+--+--+-<>-+--+--+--+--o");
+
+
 int bebidaNum = int.Parse(Console.ReadLine());
 string bebida = "null";
 
@@ -31,6 +35,7 @@ switch (bebidaNum){
     break;
     default:
     Console.WriteLine($"Valor inválido");
+    goto selecao;
     return;
 }
 if (bebidaNum != 4){
@@ -39,6 +44,7 @@ Console.WriteLine($"Você quer sua {bebida} com ou sem gelo?");
 else{
     Console.WriteLine($"Você quer seu {bebida} com ou sem gelo?");
 }
+gelo:
 Console.WriteLine($@"Digite:
 [1] Se quer gelo adicional
 [2] Se não quer gelo adicional");
@@ -54,7 +60,8 @@ switch (geloNum){
     comGelo = "sem";
     break;
     default:
-    return;
+    Console.WriteLine($"Valor inválido");
+    goto gelo;
 }
 
 if (bebidaNum != 4){
