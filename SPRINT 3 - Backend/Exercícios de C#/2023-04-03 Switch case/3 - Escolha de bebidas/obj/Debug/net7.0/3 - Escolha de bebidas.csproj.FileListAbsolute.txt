@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\bin\Debug\net7.0\3 - Escolha de bebidas.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\bin\Debug\net7.0\3 - Escolha de bebidas.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\bin\Debug\net7.0\3 - Escolha de bebidas.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\bin\Debug\net7.0\3 - Escolha de bebidas.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\bin\Debug\net7.0\3 - Escolha de bebidas.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\refint\3 - Escolha de bebidas.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\3 - Escolha de bebidas.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\3 - Escolha de bebidas\obj\Debug\net7.0\ref\3 - Escolha de bebidas.dll

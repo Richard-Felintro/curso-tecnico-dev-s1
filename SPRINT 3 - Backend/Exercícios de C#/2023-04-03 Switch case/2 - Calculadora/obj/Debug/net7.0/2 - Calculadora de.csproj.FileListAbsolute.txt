@@ -1,0 +1,30 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\bin\Debug\net7.0\2 - Calculadora de.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\bin\Debug\net7.0\2 - Calculadora de.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\bin\Debug\net7.0\2 - Calculadora de.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\bin\Debug\net7.0\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\bin\Debug\net7.0\2 - Calculadora de.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\refint\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\2 - Calculadora de.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora de\obj\Debug\net7.0\ref\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\bin\Debug\net7.0\2 - Calculadora de.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\bin\Debug\net7.0\2 - Calculadora de.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\bin\Debug\net7.0\2 - Calculadora de.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\bin\Debug\net7.0\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\bin\Debug\net7.0\2 - Calculadora de.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\refint\2 - Calculadora de.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\2 - Calculadora de.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-03 Switch case\2 - Calculadora\obj\Debug\net7.0\ref\2 - Calculadora de.dll
