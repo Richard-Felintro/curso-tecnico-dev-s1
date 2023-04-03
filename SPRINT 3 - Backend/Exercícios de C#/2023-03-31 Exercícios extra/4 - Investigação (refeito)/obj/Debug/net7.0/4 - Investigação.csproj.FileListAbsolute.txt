@@ -1,0 +1,30 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\bin\Debug\net7.0\4 - Investigação.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\bin\Debug\net7.0\4 - Investigação.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\bin\Debug\net7.0\4 - Investigação.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\bin\Debug\net7.0\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\bin\Debug\net7.0\4 - Investigação.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\refint\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\4 - Investigação.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação\obj\Debug\net7.0\ref\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\bin\Debug\net7.0\4 - Investigação.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\bin\Debug\net7.0\4 - Investigação.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\bin\Debug\net7.0\4 - Investigação.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\bin\Debug\net7.0\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\bin\Debug\net7.0\4 - Investigação.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\refint\4 - Investigação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\4 - Investigação.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-03-31 Exercícios extra\4 - Investigação - Copia\obj\Debug\net7.0\ref\4 - Investigação.dll
