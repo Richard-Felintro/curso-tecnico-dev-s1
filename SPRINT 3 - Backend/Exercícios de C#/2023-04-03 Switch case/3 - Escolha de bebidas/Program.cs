@@ -46,7 +46,7 @@ Console.WriteLine($@"Digite:
 int geloNum = int.Parse(Console.ReadLine());
 string comGelo = "null";
 
-switch (gelo){
+switch (geloNum){
     case 1:
     comGelo = "com";
     break;
