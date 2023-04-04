@@ -16,7 +16,6 @@ o--+--Escolha sua bebida--+--o
 | [4] Monster                |
 o--+--+--+--+-<>-+--+--+--+--o");
 
-
 int bebidaNum = int.Parse(Console.ReadLine());
 string bebida = "null";
 
