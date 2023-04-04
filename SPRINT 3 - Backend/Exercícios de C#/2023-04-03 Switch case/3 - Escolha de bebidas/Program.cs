@@ -22,28 +22,23 @@ string bebida = "null";
 
 switch (bebidaNum){
     case 1:
-    bebida = "Coca-cola";
+    bebida = "a Coca-cola";
     break;
     case 2:
-    bebida = "Pepsi";
+    bebida = "a Pepsi";
     break;
     case 3:
-    bebida = "Fanta";
+    bebida = "a Fanta";
     break;
     case 4:
-    bebida = "Monster";
+    bebida = " Monster";
     break;
     default:
     Console.WriteLine($"Valor inválido");
     goto selecao;
     return;
 }
-if (bebidaNum != 4){
-Console.WriteLine($"Você quer sua {bebida} com ou sem gelo?");
-}
-else{
-    Console.WriteLine($"Você quer seu {bebida} com ou sem gelo?");
-}
+Console.WriteLine($"Você quer um{bebida} com ou sem gelo adicional?");
 gelo:
 Console.WriteLine($@"Digite:
 [1] Se quer gelo adicional
@@ -63,10 +58,4 @@ switch (geloNum){
     Console.WriteLine($"Valor inválido");
     goto gelo;
 }
-
-if (bebidaNum != 4){
-Console.WriteLine($"Uma {bebida} {comGelo} gelo adicional chegando");
-}
-else{
-    Console.WriteLine($"Um {bebida} {comGelo} gelo adicional chegando");
-}
+Console.WriteLine($"Um{bebida} {comGelo} gelo adicional chegando!");
