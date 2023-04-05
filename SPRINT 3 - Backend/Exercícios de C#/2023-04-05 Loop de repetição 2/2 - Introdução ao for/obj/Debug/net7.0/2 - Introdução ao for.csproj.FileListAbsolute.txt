@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\bin\Debug\net7.0\2 - Introdução ao for.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\bin\Debug\net7.0\2 - Introdução ao for.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\bin\Debug\net7.0\2 - Introdução ao for.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\bin\Debug\net7.0\2 - Introdução ao for.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\bin\Debug\net7.0\2 - Introdução ao for.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\refint\2 - Introdução ao for.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\2 - Introdução ao for.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-05 Loop de repetição 2\2 - Introdução ao for\obj\Debug\net7.0\ref\2 - Introdução ao for.dll
