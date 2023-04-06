@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\bin\Debug\net7.0\4 - Pesquisa de empresa.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\bin\Debug\net7.0\4 - Pesquisa de empresa.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\bin\Debug\net7.0\4 - Pesquisa de empresa.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\bin\Debug\net7.0\4 - Pesquisa de empresa.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\bin\Debug\net7.0\4 - Pesquisa de empresa.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\refint\4 - Pesquisa de empresa.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\4 - Pesquisa de empresa.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\4 - Pesquisa de empresa\obj\Debug\net7.0\ref\4 - Pesquisa de empresa.dll

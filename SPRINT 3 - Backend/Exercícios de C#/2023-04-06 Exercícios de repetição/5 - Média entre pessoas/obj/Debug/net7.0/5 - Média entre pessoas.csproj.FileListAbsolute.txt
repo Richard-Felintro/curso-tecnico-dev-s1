@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\bin\Debug\net7.0\5 - Média entre pessoas.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\bin\Debug\net7.0\5 - Média entre pessoas.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\bin\Debug\net7.0\5 - Média entre pessoas.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\bin\Debug\net7.0\5 - Média entre pessoas.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\bin\Debug\net7.0\5 - Média entre pessoas.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\refint\5 - Média entre pessoas.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\5 - Média entre pessoas.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\5 - Média entre pessoas\obj\Debug\net7.0\ref\5 - Média entre pessoas.dll

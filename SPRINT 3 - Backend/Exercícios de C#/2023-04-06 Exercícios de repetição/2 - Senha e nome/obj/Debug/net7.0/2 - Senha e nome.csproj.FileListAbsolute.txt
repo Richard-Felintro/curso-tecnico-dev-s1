@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\bin\Debug\net7.0\2 - Senha e nome.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\bin\Debug\net7.0\2 - Senha e nome.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\bin\Debug\net7.0\2 - Senha e nome.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\bin\Debug\net7.0\2 - Senha e nome.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\bin\Debug\net7.0\2 - Senha e nome.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\refint\2 - Senha e nome.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\2 - Senha e nome.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\2 - Senha e nome\obj\Debug\net7.0\ref\2 - Senha e nome.dll

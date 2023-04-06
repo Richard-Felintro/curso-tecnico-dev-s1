@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\bin\Debug\net7.0\3 - Tabuada.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\bin\Debug\net7.0\3 - Tabuada.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\bin\Debug\net7.0\3 - Tabuada.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\bin\Debug\net7.0\3 - Tabuada.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\bin\Debug\net7.0\3 - Tabuada.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\refint\3 - Tabuada.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\3 - Tabuada.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-06 Exercícios de repetição\3 - Tabuada\obj\Debug\net7.0\ref\3 - Tabuada.dll

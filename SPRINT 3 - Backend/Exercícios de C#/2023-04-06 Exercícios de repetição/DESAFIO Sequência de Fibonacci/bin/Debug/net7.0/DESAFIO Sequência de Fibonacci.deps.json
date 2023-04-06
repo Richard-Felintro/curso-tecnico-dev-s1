@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DESAFIO Sequência de Fibonacci/1.0.0": {
+        "runtime": {
+          "DESAFIO Sequência de Fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DESAFIO Sequência de Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
