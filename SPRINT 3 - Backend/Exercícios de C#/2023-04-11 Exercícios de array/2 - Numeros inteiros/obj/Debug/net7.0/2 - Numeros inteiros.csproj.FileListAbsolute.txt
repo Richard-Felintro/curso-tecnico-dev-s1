@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\bin\Debug\net7.0\2 - Numeros inteiros.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\bin\Debug\net7.0\2 - Numeros inteiros.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\bin\Debug\net7.0\2 - Numeros inteiros.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\bin\Debug\net7.0\2 - Numeros inteiros.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\bin\Debug\net7.0\2 - Numeros inteiros.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\refint\2 - Numeros inteiros.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\2 - Numeros inteiros.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\2 - Numeros inteiros\obj\Debug\net7.0\ref\2 - Numeros inteiros.dll

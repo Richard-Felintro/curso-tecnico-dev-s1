@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\bin\Debug\net7.0\3 - Exercício de fixação.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\bin\Debug\net7.0\3 - Exercício de fixação.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\bin\Debug\net7.0\3 - Exercício de fixação.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\bin\Debug\net7.0\3 - Exercício de fixação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\bin\Debug\net7.0\3 - Exercício de fixação.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\refint\3 - Exercício de fixação.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\3 - Exercício de fixação.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\3 - Exercício de fixação\obj\Debug\net7.0\ref\3 - Exercício de fixação.dll

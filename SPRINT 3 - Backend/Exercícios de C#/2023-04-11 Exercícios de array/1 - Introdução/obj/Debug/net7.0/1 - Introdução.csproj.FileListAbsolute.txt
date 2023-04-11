@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\bin\Debug\net7.0\1 - Introdução.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\bin\Debug\net7.0\1 - Introdução.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\bin\Debug\net7.0\1 - Introdução.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\bin\Debug\net7.0\1 - Introdução.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\bin\Debug\net7.0\1 - Introdução.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\refint\1 - Introdução.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\1 - Introdução.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\1 - Introdução\obj\Debug\net7.0\ref\1 - Introdução.dll
