@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\bin\Debug\net7.0\4 - Números pares e impares.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\bin\Debug\net7.0\4 - Números pares e impares.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\bin\Debug\net7.0\4 - Números pares e impares.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\bin\Debug\net7.0\4 - Números pares e impares.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\bin\Debug\net7.0\4 - Números pares e impares.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\refint\4 - Números pares e impares.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\4 - Números pares e impares.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-11 Exercícios de array\4 - Números pares e impares\obj\Debug\net7.0\ref\4 - Números pares e impares.dll
