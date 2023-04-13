@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\bin\Debug\net7.0\2 - Imposto de renda.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\bin\Debug\net7.0\2 - Imposto de renda.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\bin\Debug\net7.0\2 - Imposto de renda.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\bin\Debug\net7.0\2 - Imposto de renda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\bin\Debug\net7.0\2 - Imposto de renda.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\refint\2 - Imposto de renda.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\2 - Imposto de renda.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\2 - Imposto de renda\obj\Debug\net7.0\ref\2 - Imposto de renda.dll

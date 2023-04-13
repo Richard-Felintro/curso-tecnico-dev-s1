@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\bin\Debug\net7.0\5 - Tabuada.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\bin\Debug\net7.0\5 - Tabuada.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\bin\Debug\net7.0\5 - Tabuada.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\bin\Debug\net7.0\5 - Tabuada.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\bin\Debug\net7.0\5 - Tabuada.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\refint\5 - Tabuada.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\5 - Tabuada.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-12 Exercícios de função\3 - Lista de exercícios 13-04-2023\5 - Tabuada\obj\Debug\net7.0\ref\5 - Tabuada.dll
