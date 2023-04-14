@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\2023-13-04 - Lista de exercícios\\3 -\\3 -.csproj": {}
+    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\3 - Lista de exercícios 13-04-2023\\3 - Produto\\3 -.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\2023-13-04 - Lista de exercícios\\3 -\\3 -.csproj": {
+    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\3 - Lista de exercícios 13-04-2023\\3 - Produto\\3 -.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\2023-13-04 - Lista de exercícios\\3 -\\3 -.csproj",
+        "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\3 - Lista de exercícios 13-04-2023\\3 - Produto\\3 -.csproj",
         "projectName": "3 -",
-        "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\2023-13-04 - Lista de exercícios\\3 -\\3 -.csproj",
+        "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\3 - Lista de exercícios 13-04-2023\\3 - Produto\\3 -.csproj",
         "packagesPath": "C:\\Users\\47417895867\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\2023-13-04 - Lista de exercícios\\3 -\\obj\\",
+        "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-04-12 Exercícios de função\\3 - Lista de exercícios 13-04-2023\\3 - Produto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47417895867\\AppData\\Roaming\\NuGet\\NuGet.Config",

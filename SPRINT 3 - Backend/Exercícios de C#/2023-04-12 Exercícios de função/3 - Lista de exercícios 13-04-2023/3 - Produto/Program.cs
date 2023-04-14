@@ -23,7 +23,7 @@ else
 {
     desconto = 0.05F;
 }
-Console.WriteLine($"O preço de {quantidade} unidades de {nomeProduto} será R${Math.Round(precoUnitario*quantidade*(1-desconto))}");
+Console.WriteLine($"O preço de {quantidade} unidades de {nomeProduto} será R${Math.Round(precoUnitario*quantidade*(1-desconto),2)}");
 
 // 3 - Faça um algoritmo para ler: a descrição do produto (nome), a quantidade adquirida e o
 // preço unitário. Calcular e escrever o total (total = quantidade adquirida * preço unitário), o
