@@ -42,6 +42,7 @@ static void Sair()
         }
     }
 }
+
 // MÉTODO CASO O USUÁRIO DIGITE UM VALOR INVÁLIDO //
 
 string mensagemDeErro = "Se está vendo isso eu fiz algo de errado :)";
@@ -53,8 +54,78 @@ static void ValorInvalido(string mensagemDeErro)
     return;
 }
 
-// TELA DE INÍCIO //
+// MÉTODO DE SAIR DA CONTA //
 
+static void SairDaConta()
+{
+    static void Sair()
+    {
+        Console.Clear();
+        string desejaSair = "666";
+        while (desejaSair != "1" && desejaSair != "2")
+        {
+            Console.WriteLine($@"
+    Tem certeza que quer sair de sua conta?
+    [1] Sim, quero sair.
+    [2] Não, não quero sair ainda.");
+            desejaSair = Console.ReadLine();
+            switch (desejaSair)
+            {
+                case "1":
+                    Console.Clear();
+                    Console.WriteLine($"Obrigado por usar RICARDÃO TURISMO");
+                    Console.Write($"Pressione ENTER para sair...");
+                    Console.ReadLine();
+                    Environment.Exit(1);
+                    break;
+                case "2":
+                    return;
+                    break;
+                default:
+                    ValorInvalido("O valor inserido não é uma opção válida");
+                    break;
+            }
+        }
+    }
+}
+
+// MÉTODO DE LOGIN //
+
+static void Login(bool loopTelaInicio)
+{
+    bool loopLogin = true;
+    while (loopLogin == true)
+    {
+        Console.Clear();
+        Console.WriteLine($@"Insira a senha:
+    [0] Sair");
+        string loginTentativa = Console.ReadLine();
+        if (loginTentativa == "0")
+        {
+            Sair();
+        }
+        else if (loginTentativa == "123456")
+        {
+            Console.Clear();
+            Console.WriteLine($"LOGIN EFETUADO COM SUCESSO");
+            Console.Write($"Pressione ENTER para continuar...");
+            Console.ReadLine();
+            Console.Clear();
+            loopTelaInicio = false;
+            loopLogin = false;
+        }
+        else
+        {
+            Console.Clear();
+            Console.WriteLine($"SENHA INCORRETA");
+            Console.Write($"Pressione ENTER para continuar...");
+            Console.ReadLine();
+            loopTelaInicio = false;
+        }
+    }
+}
+
+// TELA DE INÍCIO //
 bool loopTelaInicio = true;
 while (loopTelaInicio == true)
 {
@@ -64,18 +135,13 @@ while (loopTelaInicio == true)
  RICARDÃO TURISMO
 
  [1] Login
- [2] Cadastro
  [0] Sair");
     string telaInicio = Console.ReadLine();
     switch (telaInicio)
     {
         case "1":
+            Login(true);
             loopTelaInicio = false;
-            break;
-        case "2":
-            loopTelaInicio = false;
-            Cadastro(0, "");
-            slotLivre++;
             break;
         case "0":
             Sair();
@@ -87,37 +153,106 @@ while (loopTelaInicio == true)
 }
 
 // VARIÁVEIS DE CADASTRO //
+int anoTentativa = 0;
+int mesTentativa = 0;
+int diaTentativa = 0;
+string origemTentativa = "";
+string nomeTentativa = "";
+string destinoTentativa = "";
+bool cadastroCorreto = false;
+
+int[] anoCadastrado = new int[5];
+int[] mesCadastrado = new int[5];
+int[] diaCadastrado = new int[5];
+string[] origemCadastrado = new string[5];
+string[] nomeCadastrado = new string[5];
+string[] destinoCadastrado = new string[5];
 
 int slotLivre = 0;
-string[] userNome = new string[6];
-string[] userSenha = new string[6];
-// string[] vaga = new string[6];
-// string[] destino = new string[6];
-// string[] dataDeVoo = new string[6];
 
-// TELA DE CADASTRO //
-
-static void Cadastro(int slotLivre, string mensagemDeErro)
+bool loopLogado = true;
+while (loopLogado == true)
 {
-    string[] userNome = new string[6];
-    string[] userSenha = new string[6];
-    string confirmacao = "";
-    for (var i = 1; i <= 3;)
+    Console.WriteLine($@"RICARDÃO TURISMO
+
+[1] Listar passagens
+[2] Cadastrar passagem
+[9] Sair da sua conta
+[0] Sair");
+
+    string inputCadastro = Console.ReadLine();
+    switch (inputCadastro)
     {
-        Console.WriteLine($@"CADASTRE-SE [{i}/3]");
+        case "1":
+            Console.Clear();
+            if (slotLivre == 0)
+            {
+                Console.WriteLine($"Nenhum USUÁRIO foi cadastrado até o momento.");
+                Console.Write($"Pressione ENTER para continuar...");
+                Console.ReadLine();
+                Console.Clear();
+            }
+            else
+            {
+                for (var i = 0; i <= slotLivre; i++)
+                {
+                    Console.WriteLine($"PASSAGEM {i}");
+                    Console.WriteLine($"Nome do passageiro: {nomeCadastrado[slotLivre]}");
+                    Console.WriteLine($"Origem do voo: {origemCadastrado[slotLivre]}");
+                    Console.WriteLine($"Destino do voo: {destinoCadastrado[slotLivre]}");
+                    Console.WriteLine($"Data do voo: {diaCadastrado[slotLivre]}/{mesCadastrado[slotLivre]}/{anoCadastrado[slotLivre]}");
+                }
+                Console.Write($"Pressione ENTER para continuar...");
+                Console.ReadLine();
+                Console.Clear();
+            }
+            break;
+        case "2":
+            Cadastrar(false, "", "", "", 0, 0, 0, "");
+            anoCadastrado[slotLivre] = anoTentativa;
+            mesCadastrado[slotLivre] = mesTentativa;
+            diaCadastrado[slotLivre] = diaTentativa;
+            origemCadastrado[slotLivre] = origemTentativa;
+            nomeCadastrado[slotLivre] = nomeTentativa;
+            destinoCadastrado[slotLivre] = destinoTentativa;
+            slotLivre++;
+            break;
+        case "9":
+            SairDaConta();
+            break;
+        case "0":
+            Sair();
+            break;
+        default:
+            ValorInvalido(mensagemDeErro = "O valor inserido não é uma opção válida");
+            break;
+    }
+}
+static void Cadastrar(bool cadastroCorreto, string destinoTentativa, string nomeTentativa, string origemTentativa, int diaTentativa, int mesTentativa, int anoTentativa, string mensagemDeErro)
+{
+    string dataTentativa = "ph";
+    for (var i = 1; i <= 4;)
+    {
+        Console.Clear();
+        Console.WriteLine($@"CADASTRE-SE [{i}/4]");
         switch (i)
         {
             case 1:
                 Console.Clear();
-                Console.WriteLine($"Informe o nome do usuário:");
-                userNome[slotLivre] = Console.ReadLine();
-                if (userNome[slotLivre].Length > 32)
+                Console.WriteLine($@"Informe o nome do passageiro:");
+                Console.WriteLine($"[9] Retornar");
+                Console.WriteLine($"[0] Sair");
+                nomeTentativa = Console.ReadLine();
+                if (nomeTentativa == "0")
                 {
-                    Console.Clear();
-                    ValorInvalido(mensagemDeErro = "Seu NOME DE USUÁRIO não pode ter mais que 32 dígitos.");
-                    Console.Write($"Pressione ENTER para continuar...");
+                    Sair();
                 }
-                else if ((userNome[slotLivre].Length < 2))
+                if (nomeTentativa == "9")
+                {
+                    i = 1;
+                    return;
+                }
+                else if ((nomeTentativa.Length < 2))
                 {
                     Console.Clear();
                     ValorInvalido(mensagemDeErro = "Seu NOME DE USUÁRIO não pode ser um único dígito.");
@@ -130,24 +265,18 @@ static void Cadastro(int slotLivre, string mensagemDeErro)
                 break;
             case 2:
                 Console.Clear();
-                Console.WriteLine($@"Informe sua senha:
-                [0] Sair");
-                userSenha[slotLivre] = Console.ReadLine();
-                if (userSenha[slotLivre] == "0")
+                Console.WriteLine($@"Informe sua origem:");
+                Console.WriteLine($"[9] Retornar");
+                Console.WriteLine($"[0] Sair");
+                destinoTentativa = Console.ReadLine();
+                if (destinoTentativa == "0")
                 {
                     Sair();
                 }
-                else if (userNome[slotLivre].Length > 16)
+                else if (destinoTentativa == "9")
                 {
-                    Console.Clear();
-                    ValorInvalido(mensagemDeErro = "Sua SENHA não pode ter mais que 16 dígitos.");
-                    Console.Write($"Pressione ENTER para continuar...");
-                }
-                else if ((userNome[slotLivre].Length < 8))
-                {
-                    Console.Clear();
-                    ValorInvalido(mensagemDeErro = "Sua SENHA precisa ter 8 dígitos ou mais.");
-                    Console.Write($"Pressione ENTER para continuar...");
+                    i = 1;
+                    return;
                 }
                 else
                 {
@@ -156,20 +285,106 @@ static void Cadastro(int slotLivre, string mensagemDeErro)
                 break;
             case 3:
                 Console.Clear();
-                Console.WriteLine($@"Informe sua senha novamente:");
-                confirmacao = Console.ReadLine();
-                if (confirmacao != (userNome[slotLivre])){
-                    Console.WriteLine($"As SENHAS inseridas não são iguais");
+                Console.WriteLine($@"Informe seu destino:");
+                Console.WriteLine($"[9] Retornar");
+                Console.WriteLine($"[0] Sair");
+                nomeTentativa = Console.ReadLine();
+                if (origemTentativa == "0")
+                {
+                    Sair();
+                }
+                else if (origemTentativa == "9")
+                {
+                    i = 1;
+                    return;
                 }
                 else
                 {
                     i++;
                 }
                 break;
+            case 4:
+                for (var n = 0; n < 4;)
+                {
+                    switch (n)
+                    {
+                        case 0:
+                            Console.Clear();
+                            Console.WriteLine($@"Sessão de informação de data");
+                            Console.WriteLine($"[9] Retornar");
+                            Console.WriteLine($"[0] Sair");
+                            Console.Write($"Pressione ENTER para continuar...");
+                            dataTentativa = Console.ReadLine();
+                            if (dataTentativa == "0")
+                            {
+                                Sair();
+                            }
+                            else if (dataTentativa == "9")
+                            {
+                                i = 1;
+                                return;
+                            }
+                            else
+                            { n++; }
+                            break;
+                        case 1:
+                            Console.Clear();
+                            Console.WriteLine($"Informe o seu ano de partida:");
+                            anoTentativa = int.Parse(Console.ReadLine());
+                            if (anoTentativa < DateTime.Now.Year)
+                            {
+                                ValorInvalido("Esta DATA de partida está no passado");
+                            }
+                            else
+                            {
+                                n++;
+                            }
+                            break;
+                        case 2:
+                            Console.Clear();
+                            Console.WriteLine($"Informe o seu mes de partida (em números):");
+                            mesTentativa = int.Parse(Console.ReadLine());
+                            if (mesTentativa > 12 || mesTentativa < 1)
+                            {
+                                ValorInvalido("O valor de MÊS informado não é de 1 a 12");
+                            }
+                            else
+                            {
+                                n++;
+                            }
+                            break;
+                        case 3:
+                            Console.Clear();
+                            Console.WriteLine($"Informe o seu dia de partida (em números):");
+                            diaTentativa = int.Parse(Console.ReadLine());
+                            if (mesTentativa == 2 && diaTentativa > 29)
+                            {
+                                ValorInvalido("DIA informado não coincide com Mês mencionado");
+                            }
+                            else if (mesTentativa == 4 || mesTentativa == 6 || mesTentativa == 9 || mesTentativa == 11 && diaTentativa > 30)
+                            {
+                                ValorInvalido("DIA informado não coincide com Mês mencionado");
+                            }
+                            else if (diaTentativa > 31)
+                            {
+                                ValorInvalido("DIA informado não coincide com Mês mencionado");
+                            }
+                            else
+                            {
+                                cadastroCorreto = true;
+                                n++;
+                                i++;
+                            }
+                            break;
+                    }
+                }
+                break;
         }
-        Console.Clear();
-        Console.WriteLine($"USUÁRIO CADASTRADO COM SUCESSO");
     }
-    slotLivre++;
+    Console.Clear();
+    Console.WriteLine($"PASSAGEM CADASTRADA COM SUCESSO");
+    Console.Write($"Pressione ENTER para continuar...");
+    Console.ReadLine();
+    Console.Clear();
+    return;
 }
-return slotLivre++;

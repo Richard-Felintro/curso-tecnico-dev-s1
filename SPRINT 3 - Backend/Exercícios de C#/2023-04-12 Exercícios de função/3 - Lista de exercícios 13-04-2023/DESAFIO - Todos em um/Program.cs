@@ -2,9 +2,9 @@
 
 // PROSSEGUIR //
 
-static void Continuar(){
-    Console.WriteLine($@"
-    Pressione [enter] para continuar...");
+static void Continuar()
+{
+    Console.WriteLine($@"Pressione ENTER para continuar...");
     Console.ReadLine();
     Console.Clear();
 }
@@ -12,7 +12,8 @@ static void Continuar(){
 // IDADE DE VOTO //
 
 static void IdadeDeVoto()
-{Console.Clear();
+{
+    Console.Clear();
 inicio:
     Console.WriteLine($"Informe seu ano de nascimento:");
     int anoNascimento = int.Parse(Console.ReadLine());
@@ -34,7 +35,8 @@ inicio:
 // CALCULADORA DE PREÇO DE GASOLINA //
 
 static void CalculadoraGasolina()
-{Console.Clear();
+{
+    Console.Clear();
     float preco;
 escolhaCompra:
     Console.WriteLine($@"Escolha o seu combustível:
@@ -75,7 +77,8 @@ escolhaCompra:
 
 // ANÁLISE DE PRODUTO E DESCONTO //
 static void AnaliseProduto()
-{Console.Clear();
+{
+    Console.Clear();
     float desconto = 0;
     Console.WriteLine($"Informe o nome do produto:");
     string nomeProduto = Console.ReadLine();
@@ -106,7 +109,8 @@ quantidade:
 
 // MAIOR E MENOR //
 static void MaiorEMenor()
-{Console.Clear();
+{
+    Console.Clear();
     float[] numeros = new float[10];
     for (var i = 0; i <= 9; i++)
     {
@@ -119,7 +123,8 @@ static void MaiorEMenor()
 
 // TABUADA //
 static void Tabuada()
-{Console.Clear();
+{
+    Console.Clear();
     for (var i = 1; i <= 10; i++)
     {
         Console.WriteLine($"TABUADA DO {i}");
@@ -132,7 +137,8 @@ static void Tabuada()
 
 // PESQUISA DE NOMES //
 static void PesquisaNomes()
-{Console.Clear();
+{
+    Console.Clear();
     string[] nomes = new string[10];
     for (var i = 0; i <= 9; i++)
     {
@@ -180,7 +186,8 @@ static void PesquisaNomes()
 
 // SEQUÊNCIA NUMÉRICA //
 static void SequenciaNumerica()
-{Console.Clear();
+{
+    Console.Clear();
     float[] numeros = new float[15];
     for (var i = 0; i < 15; i++)
     {
@@ -234,7 +241,7 @@ while (continuar == true)
 [5] Tabuada;
 [6] Pesquisador de nomes;
 [7] Reversor de sequência numérica;
-[8] Sair.");
+[0] Sair.");
     string selecao = Console.ReadLine();
     switch (selecao)
     {
@@ -266,7 +273,7 @@ while (continuar == true)
             SequenciaNumerica();
             Continuar();
             break;
-        case "8":
+        case "0":
             Sair(continuar);
             break;
         default:
