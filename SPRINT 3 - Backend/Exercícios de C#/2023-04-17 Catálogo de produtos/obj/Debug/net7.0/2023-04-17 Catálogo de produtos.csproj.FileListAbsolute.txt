@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\bin\Debug\net7.0\2023-04-17 Catálogo de produtos.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\bin\Debug\net7.0\2023-04-17 Catálogo de produtos.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\bin\Debug\net7.0\2023-04-17 Catálogo de produtos.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\bin\Debug\net7.0\2023-04-17 Catálogo de produtos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\bin\Debug\net7.0\2023-04-17 Catálogo de produtos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\refint\2023-04-17 Catálogo de produtos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\2023-04-17 Catálogo de produtos.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-17 Catálogo de produtos\obj\Debug\net7.0\ref\2023-04-17 Catálogo de produtos.dll
