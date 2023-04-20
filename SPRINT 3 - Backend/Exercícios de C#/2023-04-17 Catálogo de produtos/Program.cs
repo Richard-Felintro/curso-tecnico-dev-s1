@@ -21,7 +21,6 @@ static void Sair()
                 Environment.Exit(1);
                 break;
             case "2":
-                return;
                 break;
             default:
                 ValorInvalido("O valor inserido não é uma opção válida");
@@ -178,7 +177,6 @@ voltarMenu:
                 case "9":
                     Console.Clear();
                     goto voltarMenu;
-                    break;
                 case "0":
                     Sair();
                     break;
