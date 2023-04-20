@@ -155,7 +155,7 @@ voltarMenu:
                     Sair();
                     break;
                 default:
-                    produtoPreco[slotLivre] = (float)Math.Round((decimal)produtoPreco[slotLivre], 3);
+                    produtoPreco[slotLivre] = (float)Math.Round((decimal)produtoPreco[slotLivre], 2);
                     Console.Clear();
                     break;
             }
@@ -205,7 +205,7 @@ voltarMenu:
                 {
                     Console.WriteLine($"PRODUTO {i + 1}");
                     Console.WriteLine($"Nome  : {produtoNome[i]}");
-                    Console.WriteLine($"Preço : R${produtoPreco[i]} R${produtoPreco[i]*1-desconto[i]/100}");
+                    Console.WriteLine($"Preço : R${produtoPreco[i]} (R${(float)Math.Round(produtoPreco[i]*(1-desconto[i]/100), 2)})");
                     if (produtoDesc[i] == true)
                     {
                         Console.WriteLine($"PROMOÇÃO: {desconto[i]}%");
