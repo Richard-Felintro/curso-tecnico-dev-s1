@@ -1,11 +1,9 @@
-Personagem.cs
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
             // nome da pasta
-namespace Introdução_POO
+namespace Introdução_a_POO
 {
     public class Personagem
     {

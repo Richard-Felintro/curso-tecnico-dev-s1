@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\bin\Debug\net7.0\2023-04-24 Cadastro de aluno POO.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\bin\Debug\net7.0\2023-04-24 Cadastro de aluno POO.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\bin\Debug\net7.0\2023-04-24 Cadastro de aluno POO.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\bin\Debug\net7.0\2023-04-24 Cadastro de aluno POO.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\bin\Debug\net7.0\2023-04-24 Cadastro de aluno POO.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\refint\2023-04-24 Cadastro de aluno POO.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\2023-04-24 Cadastro de aluno POO.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-04-24 Cadastro de aluno POO\obj\Debug\net7.0\ref\2023-04-24 Cadastro de aluno POO.dll
