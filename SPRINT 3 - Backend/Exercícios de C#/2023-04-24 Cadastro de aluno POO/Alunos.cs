@@ -2,7 +2,7 @@ namespace Cadastro_de_aluno_POO
 {
     public class Alunos
     {
-        // Variáveis para cadastro do aluno
+        //* Variáveis para cadastro do aluno
         public string? nome;
         public string? curso;
         public int idade;
@@ -11,12 +11,12 @@ namespace Cadastro_de_aluno_POO
         public float mediaFinal;
         public float mensalidade;
         
-        // Funções de análise do perfil do aluno
-        public void VerMediaFinal() //Mostrar média do aluno
+        //* Funções de análise do perfil do aluno
+        public void VerMediaFinal() //*Mostrar média do aluno
         {
             Console.WriteLine($"Média final = {Math.Round(mediaFinal, 2)}");
         }
-        public void VerMensalidade() //Calcular a mensalidade incluindo descontos de bolsista
+        public void VerMensalidade() //*Calcular a mensalidade incluindo descontos de bolsista
         {
             if (bolsista == false)
             {

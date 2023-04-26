@@ -16,12 +16,13 @@ namespace Celular_POO
         {
             ligado = true;
         }
-        public bool Desligar(bool ligado)
+        public void Desligar()
         {
+            Console.Clear();
             Console.WriteLine($"Desligando. Pressione ENTER para continuar...");
             Console.ReadLine();
             Console.Clear();
-            return false;
+            ligado = false;
         }
         public void FazerLigacao()
         {

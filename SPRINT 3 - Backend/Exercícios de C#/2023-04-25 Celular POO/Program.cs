@@ -32,7 +32,7 @@ while (cell.ligado == false)
 {
     Console.WriteLine($"[1] Ligar celular");
     Console.WriteLine($"[0] Guardar celular");
-    string desligadoInput = Console.ReadLine();
+    string desligadoInput = Console.ReadLine()!;
     switch (desligadoInput)
     {
         case "1":
@@ -58,7 +58,7 @@ while (cell.ligado == true)
     Console.WriteLine("[2] Fazer ligação");
     Console.WriteLine();
     Console.WriteLine("[0] Desligar");
-string ligadoInput = Console.ReadLine();
+string ligadoInput = Console.ReadLine()!;
 switch (ligadoInput)
 {
     case "1":
@@ -68,7 +68,7 @@ switch (ligadoInput)
         cell.FazerLigacao();
         break;
     case "0":
-        cell.ligado = false;
+        cell.Desligar();
         break;
 }
 }

@@ -1,11 +1,11 @@
 ﻿using Cadastro_de_aluno_POO;
 
-// Variáveis para ordenar alunos
+//* Variáveis para ordenar alunos
 Alunos aluno1 = new Alunos();
 int slotLivre = 0;
 List<Alunos> Aluno = new List<Alunos>();
 
-// Mensagem de erro padronizada
+//* Mensagem de erro padronizada
 void ValorInvalido(string MensagemDeErro)
 {
     Console.Clear();
@@ -15,7 +15,7 @@ void ValorInvalido(string MensagemDeErro)
     Console.Clear();
 }
 
-// Tela inicial
+//* Tela inicial
 bool loopManeiro = true;
 while (loopManeiro == true)
 {
@@ -28,7 +28,7 @@ while (loopManeiro == true)
     string menuInput = Console.ReadLine()!;
     switch (menuInput)
     {
-        case "1": // Cadastrar alunos
+        case "1": //* Cadastrar alunos
             Aluno.Add(aluno1);
             Console.Clear();
             Console.WriteLine($"Informe o nome do aluno:");
@@ -73,7 +73,7 @@ while (loopManeiro == true)
             slotLivre++;
             break;
 
-        case "2": // Listar alunos
+        case "2": //* Listar alunos
             Console.Clear();
             Console.WriteLine($"ALUNOS CADASTRADOS");
             Console.WriteLine();
@@ -118,13 +118,13 @@ while (loopManeiro == true)
                 }
             }
             break;
-        case "0": //Sair
+        case "0": //*Sair
             Console.WriteLine($"Obrigado por usar nosso sistema de cadastro");
             Console.Write($"Aperte ENTER para continuar...");
             Console.ReadLine();
             Console.Clear();
             break;
-        default: //Erro
+        default: //*Erro
             ValorInvalido("Este valor não é uma opção válida.");
             break;
     }
