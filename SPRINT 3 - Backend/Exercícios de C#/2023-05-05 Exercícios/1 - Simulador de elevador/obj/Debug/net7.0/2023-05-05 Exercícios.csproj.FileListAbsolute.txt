@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\bin\Debug\net7.0\2023-05-05 Exercícios.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\bin\Debug\net7.0\2023-05-05 Exercícios.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\bin\Debug\net7.0\2023-05-05 Exercícios.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\bin\Debug\net7.0\2023-05-05 Exercícios.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\bin\Debug\net7.0\2023-05-05 Exercícios.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\refint\2023-05-05 Exercícios.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\2023-05-05 Exercícios.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\obj\Debug\net7.0\ref\2023-05-05 Exercícios.dll
