@@ -86,8 +86,7 @@ namespace MaquinaDeCafe
             Console.Clear();
             Tabajaras(this);
             Console.WriteLine($"Cafézinho está pronto");
-            Console.WriteLine($@"
-                                    (
+            Console.WriteLine($@"                                    (
                           )     (
                    ___...(-------)-....___
                .-''       )    (          ''-.

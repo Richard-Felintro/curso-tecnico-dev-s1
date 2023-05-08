@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\2023-05-05 Exercícios.csproj": {}
+    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\1 - Simulador de elevador\\2023-05-05 Exercícios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\2023-05-05 Exercícios.csproj": {
+    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\1 - Simulador de elevador\\2023-05-05 Exercícios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\2023-05-05 Exercícios.csproj",
+        "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\1 - Simulador de elevador\\2023-05-05 Exercícios.csproj",
         "projectName": "2023-05-05 Exercícios",
-        "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\2023-05-05 Exercícios.csproj",
+        "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\1 - Simulador de elevador\\2023-05-05 Exercícios.csproj",
         "packagesPath": "C:\\Users\\47417895867\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\obj\\",
+        "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios de C#\\2023-05-05 Exercícios\\1 - Simulador de elevador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47417895867\\AppData\\Roaming\\NuGet\\NuGet.Config",
