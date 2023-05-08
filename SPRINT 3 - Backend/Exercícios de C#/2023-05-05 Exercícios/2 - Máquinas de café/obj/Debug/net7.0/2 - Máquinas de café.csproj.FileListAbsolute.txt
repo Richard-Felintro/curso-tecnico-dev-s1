@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\bin\Debug\net7.0\2 - Máquinas de café.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\bin\Debug\net7.0\2 - Máquinas de café.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\bin\Debug\net7.0\2 - Máquinas de café.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\bin\Debug\net7.0\2 - Máquinas de café.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\bin\Debug\net7.0\2 - Máquinas de café.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\refint\2 - Máquinas de café.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\2 - Máquinas de café.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\2 - Máquinas de café\obj\Debug\net7.0\ref\2 - Máquinas de café.dll
