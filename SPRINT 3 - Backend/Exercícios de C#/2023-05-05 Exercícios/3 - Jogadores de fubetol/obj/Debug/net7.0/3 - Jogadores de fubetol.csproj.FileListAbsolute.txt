@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\bin\Debug\net7.0\3 - Jogadores de fubetol.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\bin\Debug\net7.0\3 - Jogadores de fubetol.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\bin\Debug\net7.0\3 - Jogadores de fubetol.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\bin\Debug\net7.0\3 - Jogadores de fubetol.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\bin\Debug\net7.0\3 - Jogadores de fubetol.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\refint\3 - Jogadores de fubetol.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\3 - Jogadores de fubetol.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-05 Exercícios\3 - Jogadores de fubetol\obj\Debug\net7.0\ref\3 - Jogadores de fubetol.dll
