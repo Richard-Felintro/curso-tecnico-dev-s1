@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\bin\Debug\net7.0\2 - Exercício incial.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\bin\Debug\net7.0\2 - Exercício incial.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\bin\Debug\net7.0\2 - Exercício incial.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\bin\Debug\net7.0\2 - Exercício incial.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\bin\Debug\net7.0\2 - Exercício incial.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\refint\2 - Exercício incial.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\2 - Exercício incial.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-10 Listas & objetos\2 - Exercício incial\obj\Debug\net7.0\ref\2 - Exercício incial.dll
