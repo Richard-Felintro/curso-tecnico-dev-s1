@@ -1,0 +1,30 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\bin\Debug\net7.0\2023-05-11 Produto Interface.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\bin\Debug\net7.0\2023-05-11 Produto Interface.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\bin\Debug\net7.0\2023-05-11 Produto Interface.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\bin\Debug\net7.0\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\bin\Debug\net7.0\2023-05-11 Produto Interface.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\refint\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\2023-05-11 Produto Interface.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\obj\Debug\net7.0\ref\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\bin\Debug\net7.0\2023-05-11 Produto Interface.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\bin\Debug\net7.0\2023-05-11 Produto Interface.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\bin\Debug\net7.0\2023-05-11 Produto Interface.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\bin\Debug\net7.0\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\bin\Debug\net7.0\2023-05-11 Produto Interface.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\refint\2023-05-11 Produto Interface.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\2023-05-11 Produto Interface.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-11 Produto Interface\1 - Introdução\obj\Debug\net7.0\ref\2023-05-11 Produto Interface.dll
