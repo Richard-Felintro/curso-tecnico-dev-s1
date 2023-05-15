@@ -81,6 +81,7 @@ switch (menuInput)
         }
         break;
     case "2":
+        MudarMenu("Lista de Contatos");
         agenda.Listar();
         break;
     case "0":

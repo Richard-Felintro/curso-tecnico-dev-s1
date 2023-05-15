@@ -13,35 +13,39 @@ namespace Contrato_de_negocio
         {
             List<ContatoPessoal> pessoal = new List<ContatoPessoal>();
             List<ContatoComercial> comercial = new List<ContatoComercial>();
-            foreach (var c in agendaContatos)
+            if (agendaContatos.Any())
             {
-                if (c is ContatoPessoal)
+                foreach (var c in agendaContatos)
                 {
-                    pessoal.Add((ContatoPessoal)c);
+                    if (c is ContatoPessoal)
+                    {
+                        pessoal.Add((ContatoPessoal)c);
+                    }
+                    else
+                    {
+                        comercial.Add((ContatoComercial)c);
+                    }
                 }
-                else
-                {
-                    comercial.Add((ContatoComercial)c);
-                }
-            }
 
-            Console.WriteLine($"CONTATOS PESSOAIS\n");
-            foreach (var c in pessoal)
-            {
-                Console.WriteLine($"Nome : {c.Nome}");
-                Console.WriteLine($"Telefone : {c.Telefone}");
-                Console.WriteLine($"Email : {c.Email}");
-                Console.WriteLine($"CPF : {c.Cpf}\n");
+                Console.WriteLine($"CONTATOS PESSOAIS");
+                foreach (var c in pessoal)
+                {
+                    Console.WriteLine($"Nome : {c.Nome}");
+                    Console.WriteLine($"Telefone : {c.Telefone}");
+                    Console.WriteLine($"Email : {c.Email}");
+                    Console.WriteLine($"CPF : {c.Cpf}\n");
+                }
+                Console.WriteLine($"CONTATOS COMERCIAIS");
+                foreach (var c in comercial)
+                {
+                    Console.WriteLine($"Nome : {c.Nome}");
+                    Console.WriteLine($"Telefone : {c.Telefone}");
+                    Console.WriteLine($"Email : {c.Email}");
+                    Console.WriteLine($"CNPJ : {c.Cnpj}\n");
+                }
+                Console.Write($"Aperte ENTER para continuar...");
+                Console.ReadLine();
             }
-            Console.WriteLine($"CONTATOS COMERCIAIS\n");
-            foreach (var c in comercial)
-            {
-                Console.WriteLine($"Nome : {c.Nome}");
-                Console.WriteLine($"Telefone : {c.Telefone}");
-                Console.WriteLine($"Email : {c.Email}");
-                Console.WriteLine($"CNPJ : {c.Cnpj}\n");
-            }
-            Console.Write($"Aperte ENTER para continuar...");
         }
     }
 }
