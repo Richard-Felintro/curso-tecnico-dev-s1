@@ -37,9 +37,9 @@ switch (menuInput)
                 MudarMenu("Informe o nome do contato:");
                 contaP.Nome = Console.ReadLine();
                 MudarMenu("Informe o telefone do contato:");
-                contaP.Nome = Console.ReadLine();
+                contaP.Telefone = Console.ReadLine();
                 MudarMenu("Informe o email do contato:");
-                contaP.Nome = Console.ReadLine();
+                contaP.Email = Console.ReadLine();
                 cpfVerificado = false;
                 while (cpfVerificado != true)
                 {
@@ -58,9 +58,9 @@ switch (menuInput)
                 MudarMenu("Informe o nome do contato:");
                 contaC.Nome = Console.ReadLine();
                 MudarMenu("Informe o telefone do contato:");
-                contaC.Nome = Console.ReadLine();
+                contaC.Telefone = Console.ReadLine();
                 MudarMenu("Informe o email do contato:");
-                contaC.Nome = Console.ReadLine();
+                contaC.Email = Console.ReadLine();
                 cnpjVerificado = false;
                 while (cnpjVerificado != true)
                 {
