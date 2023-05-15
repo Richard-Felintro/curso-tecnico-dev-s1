@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\bin\Debug\net7.0\2023-05-12 Contrato de negócio.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\bin\Debug\net7.0\2023-05-12 Contrato de negócio.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\bin\Debug\net7.0\2023-05-12 Contrato de negócio.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\bin\Debug\net7.0\2023-05-12 Contrato de negócio.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\bin\Debug\net7.0\2023-05-12 Contrato de negócio.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\refint\2023-05-12 Contrato de negócio.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\2023-05-12 Contrato de negócio.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s1\SPRINT 3 - Backend\Exercícios de C#\2023-05-12 Contrato de negócio\obj\Debug\net7.0\ref\2023-05-12 Contrato de negócio.dll

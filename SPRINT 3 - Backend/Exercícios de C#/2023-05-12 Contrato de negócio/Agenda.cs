@@ -6,7 +6,6 @@ namespace Contrato_de_negocio
 
         public void Adicionar(Contato contato_)
         {
-            Contato.MudarMenu("Informe o nome do contato");
             agendaContatos.Add(contato_);
         }
 
@@ -42,6 +41,7 @@ namespace Contrato_de_negocio
                 Console.WriteLine($"Email : {c.Email}");
                 Console.WriteLine($"CNPJ : {c.Cnpj}\n");
             }
+            Console.Write($"Aperte ENTER para continuar...");
         }
     }
 }
