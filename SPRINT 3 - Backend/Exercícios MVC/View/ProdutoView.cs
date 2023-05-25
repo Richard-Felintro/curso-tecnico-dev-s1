@@ -18,5 +18,20 @@ namespace Exercícios_MVC.View
                 Console.WriteLine($"Preço  : {item.Preco:C2}\n");
             }
         }
+        public Produto Cadastrar()
+        {
+            Produto novoProduto = new Produto();
+
+            Console.Write($"Informe o código: ");
+            novoProduto.Codigo = int.Parse(Console.ReadLine()!);
+
+            Console.Write($"Informe o nome: ");
+            novoProduto.Nome = Console.ReadLine()!;
+
+            Console.Write($"Informe o preço: ");
+            novoProduto.Preco = float.Parse(Console.ReadLine()!);
+
+            return novoProduto;
+        }
     }
 }

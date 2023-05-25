@@ -55,13 +55,12 @@ namespace Exercicios_MVC.Model
         //* Preparar as linhas para serem inseridas no CSV
         public string PrepararLinhasCSV(Produto p)
         {
-            return $"{p.Codigo};{p.Nome};{p.Preco}";
+            return $"{p.Codigo};{p.Nome};{p.Preco:c2}";
         }
 
         public void Inserir(Produto p)
         {
             string[] linhas = {PrepararLinhasCSV(p)};
-            
             File.AppendAllLines(PATH, linhas);
         }
     }

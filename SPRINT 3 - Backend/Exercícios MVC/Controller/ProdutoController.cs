@@ -17,5 +17,10 @@ namespace Exercícios_MVC.Controller
             List<Produto> produtos = produto.Ler();
             produtoView.Listar(produtos);
         }
+
+        public void CadastrarProduto()
+        {
+            produto.Inserir(produtoView.Cadastrar());
+        }
     }
 }
