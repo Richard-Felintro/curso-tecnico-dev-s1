@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios MVC\\Exercícios MVC.csproj": {}
+    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Introdução MVC\\Exercícios MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios MVC\\Exercícios MVC.csproj": {
+    "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Introdução MVC\\Exercícios MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios MVC\\Exercícios MVC.csproj",
+        "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Introdução MVC\\Exercícios MVC.csproj",
         "projectName": "Exercícios MVC",
-        "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios MVC\\Exercícios MVC.csproj",
+        "projectPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Introdução MVC\\Exercícios MVC.csproj",
         "packagesPath": "C:\\Users\\47417895867\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Exercícios MVC\\obj\\",
+        "outputPath": "C:\\Users\\47417895867\\Desktop\\curso-tecnico-dev-s1\\SPRINT 3 - Backend\\Introdução MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47417895867\\AppData\\Roaming\\NuGet\\NuGet.Config",

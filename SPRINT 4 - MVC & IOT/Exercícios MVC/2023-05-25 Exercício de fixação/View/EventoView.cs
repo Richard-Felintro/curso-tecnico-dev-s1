@@ -10,6 +10,20 @@ namespace Exercicio_de_fixacao.View
     public class EventoView
     {
         bool Loop = true;
+
+        public string TelaInicial()
+        {
+            bool loop = true;
+            while (loop)
+            {
+                GerarMenu("Menu Inicial");
+                Console.WriteLine($"[1] Cadastrar evento");
+                Console.WriteLine($"[2] Listar eventos");
+                string inicioInput = Console.ReadLine()!;
+                if (inicioInput == "1" || inicioInput == "2") { return inicioInput; }
+            }
+            return ":3";
+        }
         public void GerarMenu(string x)
         {
             Console.Clear();

@@ -13,6 +13,12 @@ namespace Exercicio_de_fixacao.Controller
         EventoView view = new EventoView();
         EventoController control = new EventoController();
 
+        public void GerarMenuInicial()
+        {
+            string input = view.TelaInicial();
+            if (input == "1") { CadastrarEvento(); }
+            if (input == "2") { ListarEventos(); }
+        }
         public void CadastrarEvento()
         {
             model.Inserir(view.Cadastrar());
