@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace projeto_gamer_fullstack.Models
+{
+    public class Equipe
+    {
+        //* Propriedades
+        [Key]
+        public int IdEquipe   { get; set; }
+        public string? Nome   { get; set; }
+        public string? Imagem { get; set; }
+        public ICollection<Jogador> Jogador { get; set; }
+
+        //* Métodos
+        // public void Cadastrar(Equipe e){}
+        // public List<Equipe> Listar(){}
+        // public void Excluir(int id){}
+        // public void Atualizar(Equipe e){}
+
+    }
+}
