@@ -15,7 +15,7 @@ namespace projeto_gamer_fullstack.Infra
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = NOTE17-S14; initial catalog = gamerFullstack; Integrated Security = true; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source = NOTE17-S14; initial catalog = gamerFullstack; User Id=sa; pwd=Senai@134; TrustServerCertificate = true");
             }
         }
 
