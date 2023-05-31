@@ -29,16 +29,33 @@ namespace projeto_gamer_fullstack.Controllers
             return View(); //* Esta "mochila" pode ser usada no View de equipe.
         }
 
+        [Route("Cadastrar")]
         public IActionResult Cadastrar(IFormCollection form)
         {
             Equipe novaEquipe = new Equipe();
             novaEquipe.Nome = form["Nome"].ToString();
-            novaEquipe.Imagem = form["Imagem"].ToString();
+            //* novaEquipe.Imagem = form["Imagem"].ToString(); Hora de transformar em imagem kkkkk
+
+            //* Upload de imagem:
+            if (form.Files.Count > 0)
+            {
+                var file = form.Files[0];
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+                }
+
+                var path = Path.Combine(folder, file.FileName);
+
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+            }
 
             c.Equipe.Add(novaEquipe);
             c.SaveChanges();
-
-            ViewBag.Equipe = c.Equipe.ToList();
 
             return LocalRedirect("~/Equipe/Listar");
         }
