@@ -2,16 +2,17 @@
 
 @{
     ViewData["Title"] = "Equipe";
-} 
+}
 
 <h1>Tela de Equipes</h1>
 
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+<form method="post" action="@Url.Action("Cadastrar")"
+    enctype="multipart/form-data">
     <label for="">Nome</label>
     <input type="text" name="Nome">
 
     <label for="">Imagem</label>
-    <input type="text" name="Imagem">
+    <input type="file" name="Imagem">
 
     <button type="submit">Cadastrar</button>
 </form>
@@ -29,7 +30,18 @@
             <tr>
                 <td>@equipe.IdEquipe</td>
                 <td>@equipe.Nome</td>
-                <td>@equipe.Imagem</td>
+                <td>
+                    <img src="/img/Equipes/@equipe.Imagem" alt="Imagem da equipe
+                    @equipe.Nome" width="76px">
+                </td>
+                <td>
+                    <a asp-area="" asp-controller="equipe" asp-action="Editar"
+                        asp-route-id="@equipe.IdEquipe">Editar</a>
+                </td>
+                <td>
+                    <a asp-area="" asp-controller="equipe" asp-action="Excluir"
+                        asp-route-id="@equipe.IdEquipe">Excluir</a>
+                </td>
             </tr>
         }
     </tbody>
