@@ -1,3 +1,5 @@
+
+@********** + Página de cadastro de equipes + **********@
 @model Equipe
 
 @{
@@ -9,7 +11,7 @@
 <form method="post" action="@Url.Action("Cadastrar")"
     enctype="multipart/form-data">
     <label for="">Nome</label>
-    <input type="text" name="Nome">
+    <input type="text" name="Nome" required>
 
     <label for="">Imagem</label>
     <input type="file" name="Imagem">

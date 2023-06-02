@@ -13,13 +13,6 @@ namespace projeto_gamer_fullstack.Models
         public int IdEquipe   { get; set; }
         public string? Nome   { get; set; }
         public string? Imagem { get; set; }
-        public ICollection<Jogador> Jogador { get; set; }
-
-        //* Métodos
-        // public void Cadastrar(Equipe e){}
-        // public List<Equipe> Listar(){}
-        // public void Excluir(int id){}
-        // public void Atualizar(Equipe e){}
-
+        public ICollection<Jogador>? Jogador { get; set; }
     }
 }

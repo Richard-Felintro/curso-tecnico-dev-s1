@@ -36,9 +36,7 @@ namespace projeto_gamer_fullstack.Controllers
             if (form["Nome"].ToString != null)
             {
                 novaEquipe.Nome = form["Nome"].ToString();
-                //* novaEquipe.Imagem = form["Imagem"].ToString(); Hora de transformar em imagem kkkkk
 
-                //* Upload de imagem:
                 if (form.Files.Count > 0)
                 {
                     var file = form.Files[0];
@@ -56,15 +54,13 @@ namespace projeto_gamer_fullstack.Controllers
                     }
 
                     novaEquipe.Imagem = file.FileName;
-
-
-                    c.Equipe.Add(novaEquipe);
-                    c.SaveChanges();
                 }
-            }
-            else
-            {
-                novaEquipe.Imagem = "~/wwwroot/img/Equipes/default.png";
+                else
+                {
+                    novaEquipe.Imagem = "default.png";
+                }
+                c.Equipe.Add(novaEquipe);
+                c.SaveChanges();
             }
             return LocalRedirect("~/Equipe/Listar");
         }
@@ -93,9 +89,10 @@ namespace projeto_gamer_fullstack.Controllers
         }
 
         [Route("Atualizar")]
-        public IActionResult Atualizar(IFormCollection form, Equipe e)
+        public object Atualizar(IFormCollection form, Equipe e)
         {
             Equipe novaEquipe = new Equipe();
+            Equipe equipe = c.Equipe.First(x => x.IdEquipe == e.IdEquipe);
 
             novaEquipe.Nome = e.Nome;
 
@@ -115,12 +112,15 @@ namespace projeto_gamer_fullstack.Controllers
                     file.CopyTo(stream);
                 }
                 novaEquipe.Imagem = file.FileName;
+                equipe.Imagem = novaEquipe.Imagem;
             }
 
-            Equipe equipe = c.Equipe.First(x => x.IdEquipe == e.IdEquipe);
+            string novoNome = form["Nome"].ToString();
 
-            equipe.Nome = novaEquipe.Nome;
-            equipe.Imagem = novaEquipe.Imagem;
+            if (string.IsNullOrEmpty(novoNome))
+            {
+                equipe.Nome = novaEquipe.Nome;
+            }
 
             c.Equipe.Update(equipe);
             c.SaveChanges();
