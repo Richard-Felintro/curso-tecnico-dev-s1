@@ -11,13 +11,13 @@
 
 
 <label for="">Nome</label>
-<input for="Nome" type="text" required>
+<input name="JogadorNome" type="text" required>
 
 <label for="">Email</label>
-<input for="Email" type="text" required>
+<input name="JogadorEmail" type="text" required>
 
 <label for="">Senha</label>
-<input for="Senha" type="text" required>
+<input name="JogadorSenha" type="text" required>
 
 <select name="Equipe" id="Equipe" required
 >
@@ -27,7 +27,7 @@
     }
 </select>
 
-<button type="submit">Cadastrar</button>
+<button type="submit" asp-action="Cadastrar">Cadastrar</button>
 </form>
 
 
@@ -42,11 +42,19 @@
         {
             <tr>
                 <td>@jogador.IdJogador</td>
-                <td>@jogador.NomeJogador</td>
+                <td>@jogador.Nome</td>
                 <td>@jogador.Email</td>
                 <td>
                     <a asp-area="" asp-controller="jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador">Excluir
                     </a>
+                </td>
+                                <td>
+                    <a asp-area="" asp-controller="Jogador" asp-action="Editar"
+                        asp-route-id="@Jogador.IdJogador">Editar</a>
+                </td>
+                <td>
+                    <a asp-area="" asp-controller="Jogador" asp-action="Excluir"
+                        asp-route-id="@Jogador.IdJogador">Excluir</a>
                 </td>
             </tr>
         }

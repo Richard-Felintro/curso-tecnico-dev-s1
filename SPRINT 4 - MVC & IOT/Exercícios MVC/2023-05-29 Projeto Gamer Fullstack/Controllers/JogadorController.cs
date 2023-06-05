@@ -34,15 +34,19 @@ namespace projeto_gamer_fullstack.Controllers
         {
             Jogador novoJogador = new Jogador();
 
-            novoJogador.IdEquipe = form[""]
-            novoJogador.Nome = form["Nome"].ToString();
-            novoJogador.Email = form["Email"].ToString();
-        }
+            novoJogador.IdEquipe = int.Parse(form["Equipe"]);
+            novoJogador.Equipe = c.Equipe.First(x => x.IdEquipe == int.Parse(form["Equipe"]));
+            novoJogador.Nome = form["JogadorNome"].ToString();
+            novoJogador.Email = form["JogadorEmail"].ToString();
+            novoJogador.Senha = form["JogadorSenha"].ToString();
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View("Error!");
+            c.Jogador.Add(novoJogador);
+            c.SaveChanges();
+
+            return LocalRedirect("~/Equipe/Listar");
         }
+        [Route("Editar")]
+
+        [Route("Deletar")]
     }
 }
