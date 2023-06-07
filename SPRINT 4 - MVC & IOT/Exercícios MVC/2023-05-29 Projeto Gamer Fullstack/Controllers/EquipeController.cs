@@ -25,6 +25,7 @@ namespace projeto_gamer_fullstack.Controllers
         [Route("Listar")]//*http:/localhost/Equipe/Listar
         public IActionResult Index()
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             ViewBag.Equipe = c.Equipe.ToList(); //* "Mochila" que contém equipes. 
             return View(); //* Esta "mochila" pode ser usada no View de equipe.
         }
@@ -82,7 +83,7 @@ namespace projeto_gamer_fullstack.Controllers
         public IActionResult Editar(int id)
         {
             Equipe e = c.Equipe.First(e => e.IdEquipe == id);
-
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             ViewBag.Equipe = e;
 
             return View("Edit");
